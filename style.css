@@ -1,0 +1,97 @@
+body{
+    background: #e3fcf7;
+     background-image: url('719578-arte-Baile-Barroco-Musicos-Pintura-Salon-1080P.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.content{
+    
+    width:500px;
+    text-align: center;
+    margin-left: 35%;
+   
+}
+.content2{
+    
+    width:700px;
+    align-items: center;
+    text-align: center;
+    margin-left: 29%;
+    
+}
+.titulo{
+    text-align: left;
+}
+.header{
+    border:10px solid #20ad8a;
+    width:99%;
+    padding-top: 1%;
+    background-image: url('Sin\ título-1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.header1{
+    border:10px solid #20ad8a;
+    width:99%;
+    padding-top: 1%;
+    background-image: url('Sin\ título-1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.espaciado{
+    margin-left: 25%;
+    align-items: left;
+    
+}
+.espaciado1{
+    margin-left: 30%;
+    align-items: left;
+    
+}
+.citacion{
+    background-color: darkgrey;
+    border:2px solid rgb(150, 150, 150);
+    text-align: center;
+}
+.logo {
+    position: absolute; 
+    padding-left: 9px;
+    padding-top: 0.5%;
+ 
+   
+  }
+  .footer{
+    
+    padding: 40px;
+    text-align: center;  
+    background-image: url('Sin\ título-1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;  
+    border:10px solid #20ad8a; 
+}
+.sidebar {
+      height: 520px;
+      width: 140px;
+      position: absolute;
+      background-color: #333;
+      padding-top: 40px;
+      color: white;
+      background-image: url('fondobarroco.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+
+ .sidebar a {
+      padding: 15px 20px;
+      font-size: 30px;
+      color: white;
+      display: block;
+      
+    }
+
+    
